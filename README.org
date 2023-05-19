@@ -1,0 +1,9 @@
+* djula
+
+Common Lisp port of the Django templating language for Julia.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nallen05/djula.git |
+| commit  | 331e2d5                                   |
+| systems | djula                                     |
+|---------+-------------------------------------------|
