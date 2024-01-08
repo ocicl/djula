@@ -4,6 +4,6 @@ Common Lisp port of the Django templating language for Julia.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/mmontone/djula.git |
-| commit  | 85ae5c9                                   |
+| commit  | 477b102                                   |
 | systems | djula                                     |
 |---------+-------------------------------------------|
